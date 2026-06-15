@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "GhostedSMP.aternos.me"
-    "port": "45189,
+    "port": "45189",
     "version": "",
     "try-creative": false
   },
