@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "167.235.119.47",
-    "port": 25723,
+    "ip": "GhostedSMP.aternos.me"
+    "port": "45189,
     "version": "",
     "try-creative": false
   },
